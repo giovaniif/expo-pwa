@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "theme-color": "#7159c1"
     }
   }
 }
